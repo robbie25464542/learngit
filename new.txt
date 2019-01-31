@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is add by dev branch
+=======
+this is a new file add by master
+>>>>>>> master

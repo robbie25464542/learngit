@@ -1,2 +1,6 @@
 hello git
+<<<<<<< HEAD
 this is add by dev branch
+=======
+this is add by master branch
+>>>>>>> master
