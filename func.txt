@@ -1,2 +1,3 @@
 this is a new file master
 modify by master
+this is a func dev
